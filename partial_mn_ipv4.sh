@@ -16,7 +16,7 @@ cat << "ADE"
                                                                                                                         
 ADE
 
-ver_to_download=$(v2.1.8.2)
+ver_to_download=v2.1.8.2
 
 RED='\033[0;31m'
 GREEN='\033[0;32m'
