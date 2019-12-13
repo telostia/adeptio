@@ -15,7 +15,7 @@
             "commands": {
               "sanity": {
                 "args": [
-                  "-version"
+                  ""
                 ],
                 "output": [
                   "mymn Core Daemon",
@@ -37,7 +37,7 @@
             "commands": {
               "sanity": {
                 "args": [
-                  "-version"
+                  ""
                 ],
                 "output": [
                   "mymn Core Daemon",
@@ -59,7 +59,7 @@
             "commands": {
               "sanity": {
                 "args": [
-                  "-version"
+                  ""
                 ],
                 "output": [
                   "mymnd Core Daemon",
@@ -79,7 +79,7 @@
             "commands": {
               "sanity": {
                 "args": [
-                  "-version"
+                  ""
                 ],
                 "output": [
                   "mymnd Core Daemon",
