@@ -1,0 +1,95 @@
+{
+  "clients": {
+    "mymnd": {
+      "version": "1.2.1.1",
+      "platforms": {
+        "linux": {
+          "x64": {
+            "download": {
+              "url": "https://github.com/MyMNProject/mymn/releases/download/1.2.1.1-nobootstrap/mymn-linux.tar.gz",
+              "type": "tar",
+              "sha256": "",
+              "bin": "mymnd"
+            },
+            "bin": "mymnd",
+            "commands": {
+              "sanity": {
+                "args": [
+                  "-version"
+                ],
+                "output": [
+                  "mymn Core Daemon",
+                  "1.0.0.9"
+                ]
+              }
+            }
+          }
+        },
+        "mac": {
+          "x64": {
+            "download": {
+              "url": "https://github.com/MyMNProject/mymn/releases/download/1.2.1.1-nobootstrap/mymn-linux.tar.gz",
+              "type": "tar",
+              "sha256": "",
+              "bin": "mymnd"
+            },
+            "bin": "mymnd",
+            "commands": {
+              "sanity": {
+                "args": [
+                  "-version"
+                ],
+                "output": [
+                  "mymn Core Daemon",
+                  "1.2.1.1"
+                ]
+              }
+            }
+          }
+        },
+        "win": {
+          "ia32": {
+            "download": {
+              "url": "https://github.com/MyMNProject/mymn/releases/download/1.2.1.1-nobootstrap/mymn-win64-cli.zip",
+              "type": "zip",
+              "sha256": "",
+              "bin": "mymnd.exe"
+            },
+            "bin": "mymnd.exe",
+            "commands": {
+              "sanity": {
+                "args": [
+                  "-version"
+                ],
+                "output": [
+                  "mymnd Core Daemon",
+                  "1.2.1.1"
+                ]
+              }
+            }
+          },
+          "x64": {
+            "download": {
+              "url": "https://github.com/MyMNProject/mymn/releases/download/1.2.1.1-nobootstrap/mymn-win64-cli.zip",
+              "type": "zip",
+              "sha256": "",
+              "bin": "mymnd.exe"
+            },
+            "bin": "mymnd.exe",
+            "commands": {
+              "sanity": {
+                "args": [
+                  "-version"
+                ],
+                "output": [
+                  "mymnd Core Daemon",
+                  "1.2.1.1"
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
