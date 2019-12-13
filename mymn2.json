@@ -18,7 +18,7 @@
                   "-version"
                 ],
                 "output": [
-                  "mymn Core Daemon",
+                  "Mymn Core Daemon",
                   "1.2.1.1"
                 ]
               }
@@ -40,7 +40,7 @@
                   "-version"
                 ],
                 "output": [
-                  "mymn Core Daemon",
+                  "Mymn Core Daemon",
                   "1.2.1.1"
                 ]
               }
@@ -62,7 +62,7 @@
                   "-version"
                 ],
                 "output": [
-                  "mymnd Core Daemon",
+                  "Mymn Core Daemon",
                   "1.2.1.1"
                 ]
               }
@@ -82,7 +82,7 @@
                   "-version"
                 ],
                 "output": [
-                  "mymnd Core Daemon",
+                  "Mymn Core Daemon",
                   "1.2.1.1"
                 ]
               }
