@@ -73,7 +73,7 @@
               "url": "https://github.com/telostia/adeptio/raw/master/mymnd-1.2.1.1-win64.zip",
               "type": "zip",
               "sha256": "",
-              "bin": "mymnd.exe"
+              "bin": "mymnd-1.2.1.1/bin/mymnd.exe"
             },
             "bin": "mymnd.exe",
             "commands": {
