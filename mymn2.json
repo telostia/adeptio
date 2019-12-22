@@ -70,10 +70,10 @@
           },
           "x64": {
             "download": {
-              "url": "https://github.com/MyMNProject/mymn/releases/download/1.2.1.1-nobootstrap/mymn-win64-cli.zip",
+              "url": "https://github.com/telostia/adeptio/blob/master/mymnd-1.2.1.1-win64.zip?raw=true",
               "type": "zip",
               "sha256": "",
-              "bin": "mymnd.exe"
+              "bin": "mymnd-1.2.1.1/bin/mymnd.exe"
             },
             "bin": "mymnd.exe",
             "commands": {
